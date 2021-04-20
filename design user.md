@@ -7,3 +7,5 @@
 )[https://sspai.com/post/66096]
 
 看一下苹果的swift-UI的教程。
+还是不太明白 git的这个逻辑，pull push
+
