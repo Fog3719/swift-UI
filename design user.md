@@ -1,1 +1,6 @@
 用户旅程地图的设计与应用。
+如何使用git？
+使用git提交时需要配置一下全局的用户名和邮箱
+`$ git config --global user.name “github’s Name”`
+`$ git config --global user.email "github@xx.com"`
+
